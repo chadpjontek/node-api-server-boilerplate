@@ -17,5 +17,5 @@ The purpose of this boilerplate is for myself and others to quickly get started 
 
 ***How to use:***
 * Create tests and put them in the `./tests` folder. Then run them with `npm test`.
-* To run server in development mode, run `npm start`. Saved changes will result in webpack rebuilding the bundle and nodemon restarting the server.
+* To run server in development mode, run `npm start`. Saved changes will result in webpack rebuilding the bundle and nodemon restarting the server. **Note** You must have a build in the `/dist` folder the first time you run this command. *See below on how to create it.*
 * To create a production build, run `npm run build`. The output will be in the `/dist` folder.
