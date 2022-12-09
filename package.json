@@ -14,7 +14,7 @@
   "author": "Chad Pjontek",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-promise-router": "^3.0.3",
     "morgan": "^1.9.1"
   },
